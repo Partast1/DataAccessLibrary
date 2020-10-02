@@ -1,0 +1,9 @@
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\bin\Debug\TempClassLibrary.dll
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\bin\Debug\TempClassLibrary.pdb
+C:\Users\asdf\source\repos\DataAccessLibrary\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CopyComplete
